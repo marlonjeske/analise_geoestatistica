@@ -1,6 +1,7 @@
 # Análise geoestatística da rede pluviométrica da cidade de São Paulo, SP, Brasil.
 
 Autor: Marlon Jeske
+
 Instituições: Universidade Federal de São Paulo (UNIFESP) e Instituto Tecnológico de Aeronáutica (ITA)
 
 Com este trabalho é possível realizar a análise de uma rede pluviométrica por meio de geoestatística e observar as predições de precipitação na cidade de São Paulo por meio da interpolação. Com esses resultados, é possível identificar novos locais para instalação de pluviômetros onde há maior variância (erro na estimativa de chuva). 
