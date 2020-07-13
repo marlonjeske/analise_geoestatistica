@@ -4,6 +4,14 @@ Autor: Marlon Jeske
 
 Instituições: Universidade Federal de São Paulo (UNIFESP) e Instituto Tecnológico de Aeronáutica (ITA)
 
+Trabalho realizado na disciplina "Resolução de problemas via modelagem matemática" 
+
+Professor responsável: Professor Doutor Luiz Leduíno
+
+Empresa: Cemaden; Responsáveis: Leonardo e Lívia
+
+
+
 Com este trabalho é possível realizar a análise de uma rede pluviométrica por meio de geoestatística e observar as predições de precipitação na cidade de São Paulo por meio da interpolação. Com esses resultados, é possível identificar novos locais para instalação de pluviômetros onde há maior variância (erro na estimativa de chuva). 
 
 Este trabalho ainda otimiza a rede pluviométrica ordenando as estações por sua importância, calculada por meio do ganho de informação que cada pluviômetro fornece para a rede (medidas de entropia). Com este ranking de importância, é possível verificar quais pluviômetros são redundantes e que podem ser realocados para locais de maior importância.
