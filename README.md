@@ -1,4 +1,4 @@
-# Análise geoestatística da rede pluviométrica da cidade de São Paulo, SP, Brasil.
+# Análise geoestatística de estações pluviométricas: um estudo de caso na cidade de São Paulo
 
 Autor: Marlon Jeske
 
